@@ -1,2 +1,5 @@
-datasets/
+data/
+.ipynb_checkpoints/
 .idea/
+replace_data_in_files.py
+replace_name.py
